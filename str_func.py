@@ -1,4 +1,4 @@
-def caps_letters(str):
+def upper_letters(str):
     """
     Делает все буквы заглавными
     :param str:
